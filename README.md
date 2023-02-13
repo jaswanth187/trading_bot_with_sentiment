@@ -1,1 +1,1 @@
-# trading_bot_with_sentiment
+# trading_bot_with_sentiment_analysis
